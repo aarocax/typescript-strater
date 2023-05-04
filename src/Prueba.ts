@@ -2,6 +2,6 @@ export { Prueba  }
 
 class Prueba {
     constructor() {
-        console.log("hola")
+        console.log("hola...")
     }
 }
